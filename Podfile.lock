@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (4.8.2)
+  - ObjectMapper (3.5.0)
+  - Realm (3.16.1):
+    - Realm/Headers (= 3.16.1)
+  - Realm/Headers (3.16.1)
+  - RealmSwift (3.16.1):
+    - Realm (= 3.16.1)
+  - SDCAlertView (10.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - ObjectMapper (~> 3.4)
+  - RealmSwift
+  - SDCAlertView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+    - SDCAlertView
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  ObjectMapper: 078b564ed25c6578b62588e306bf1da3924636d4
+  Realm: 601cacc51d8be3b17a377ef787be0f6ee0e76cf1
+  RealmSwift: 486f2e09d5a8ccff63ed66e48d0846b111deb5e5
+  SDCAlertView: 5fbc48cae6d7bf9781097e3f27883924ef3b922c
+
+PODFILE CHECKSUM: d83403cac870ec0ab074043661948434a0cdc5a6
+
+COCOAPODS: 1.7.1
